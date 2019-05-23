@@ -5,3 +5,6 @@ Please note that the script are apache impala native scripts
 
 Here is a brief diagram of the vault model the data represents:
 ![alt text](images/diagram1.jpg)
+
+How to create the pit table for an insert only architecture:
+![alt text](images/diagram2.png)
